@@ -1,9 +1,10 @@
 {
 	"name": "A KIRBY THEME",
+	"icon": "/img/kirbyIcon.jpg", // Caminho para o ícone do tem
 	"colors": {
 		"editor.background": "#F5DCE0", // Cor de fundo do tema em geral
-		"editor.foreground": "#d74894", // Cor da escrita do usuraio
-        "list.activeSelectionIconForeground": "#ffd2ef", 
+		"editor.foreground": "#d74894", // Cor da escrita do usuário
+		"list.activeSelectionIconForeground": "#ffd2ef", 
 		"activityBar.background": "#AD1457", // Cor de fundo da barra de atividades
 		"activityBar.foreground": "#ffd2ef", // Cor dos ícones na barra de atividades
 		"activityBarBadge.background": "#fb006d", // Cor de fundo dos badges na barra de atividades
@@ -11,9 +12,15 @@
 		"titleBar.activeBackground": "#AD1457", // Cor de fundo da barra de título ativa
 		"titleBar.activeForeground": "#ffffff", // Cor do texto na barra de título ativa
 		"titleBar.inactiveBackground": "#E0B0B0", // Cor de fundo da barra de título inativa
-		"titleBar.inactiveForeground": "#ffd2ef" // Cor do texto na barra de título inativa
+		"titleBar.inactiveForeground": "#ffd2ef",// Cor do texto na barra de título inativa
+		"focusBorder": "#fb006d", // Cor da borda de foco
+		"editorLineNumber.activeForeground": "#4e006f",
+		"editorLineNumber.foreground": "#ff00e3",
+		"editorCursor.foreground": "#FFFFFF",
+		"editor.selectionBackground": "#ffc6f3",
+		"editor.inactiveSelectionBackground": "default",
 		
-	
+
 	},
 	"tokenColors": [
 		{
@@ -24,7 +31,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#Fa8fb1"
+				"foreground": "#8b00ff"
 			}
 		},
 		{
@@ -56,7 +63,7 @@
 			"name": "Operators",
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#777777"
+				"foreground": "#"
 			}
 		},
 		{
