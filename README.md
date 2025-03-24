@@ -1,7 +1,7 @@
 # Pink Pastel Theme
 
 ## Descrição
-<img src="https://wallpaperaccess.com/full/1262778.jpg" alt="Kirby" style="width: 100%; height: auto";>
+<img src="https://wallpaperaccess.com/full/1262778.jpg" alt="Kirby" style="width: 100%; height: auto">
 
 O **Pink Pastel Theme** é um tema suave e elegante para o Visual Studio Code, inspirado em tons de rosa pastel. Este tema proporciona uma experiência visual agradável e relaxante, ideal para quem gosta de cores delicadas e harmoniosas.
 
