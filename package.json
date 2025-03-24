@@ -1,0 +1,21 @@
+{
+  "name": "pink-pastel-theme",
+  "displayName": "Pink Pastel Theme",
+  "description": "A cute theme with lots of pink for those who want to code! ",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "A KIRBY THEME",
+        "uiTheme": "vs",
+        "path": "./themes/A KIRBY THEME-color-theme.json"
+      }
+    ]
+  }
+}
