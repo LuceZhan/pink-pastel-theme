@@ -32,7 +32,7 @@ O **Pink Pastel Theme** é um tema suave e elegante para o Visual Studio Code, i
 
 ## Imagem do Tema
 
-![Kirby]https://wallpaperaccess.com/full/1262778.jpg)
+<img src="https://wallpaperaccess.com/full/1262778.jpg" alt="Kirby" width="300">
 
 ## Trabalhando com Markdown
 
