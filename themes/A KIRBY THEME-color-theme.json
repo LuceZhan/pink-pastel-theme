@@ -1,6 +1,5 @@
 {
 	"name": "A KIRBY THEME",
-	"icon": "/img/kirbyIcon.jpg", // Caminho para o ícone do tem
 	"colors": {
 		"editor.background": "#F5DCE0", // Cor de fundo do tema em geral
 		"editor.foreground": "#d74894", // Cor da escrita do usuário
@@ -19,6 +18,11 @@
 		"editorCursor.foreground": "#FFFFFF",
 		"editor.selectionBackground": "#ffc6f3",
 		"editor.inactiveSelectionBackground": "default",
+		"sideBar.background":"#F5DCE0",
+		"sideBar.foreground": "#ff00cb",
+		"sideBarSectionHeader.foreground": "#9F0070",
+		"sideBarSectionHeader.background": "#d36cc38d"
+	
 		
 
 	},
@@ -63,7 +67,7 @@
 			"name": "Operators",
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#"
+				"foreground": "#ffffff"
 			}
 		},
 		{

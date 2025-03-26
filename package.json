@@ -1,14 +1,16 @@
 {
   "name": "pink-pastel-theme",
+  "publisher": "4b4c5ed2-712a-6de0-92a9-86869556d944",
   "displayName": "Pink Pastel Theme",
   "description": "A cute theme with lots of pink for those who want to code! ",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.54.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "./themes/img/OIP.jpeg",
   "contributes": {
     "themes": [
       {
